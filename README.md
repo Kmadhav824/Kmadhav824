@@ -1,6 +1,6 @@
 <h1 align="center">Madhav Kumar</h1>
 <p align="center">
-  Backend & Systems Developer • Cybersecurity Enthusiast • ECE Undergraduate
+  Backend & Systems Developer • Competetive Programming • Open-Source Contributor
 </p>
 
 <p align="center">
@@ -42,7 +42,8 @@ I am an Electronics & Communication Engineering undergraduate with a strong inte
 Pinned repositories below highlight system-level thinking and backend depth.
 
 - Wercel (like Vercel) — build pipeline, deployment flow, and runtime handling
-- Backend Systems — API-driven, database-backed applications  
+- Backend Systems — API-driven, database-backed applications
+- CodeSM - Online Coding Contest Platform for Beginners
 
 ---
 
